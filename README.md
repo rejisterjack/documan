@@ -38,5 +38,5 @@
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/documan.git 
+git clone https://github.com/rejisterjack/documan.git 
 cd documan
